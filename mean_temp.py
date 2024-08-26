@@ -10,13 +10,13 @@
 """
 
 # Assign variable x the value for the previous day's high temperature
-x = 
+x = 84
 
 # Assign variable y the value for the previous day's low temperature
-y =  
+y =  63
 
 # Create variable z and use mathematical operators to calculate the mean temperature
-z = 
+z = (x + y)/2
 
 # Use this custom statement that prints the result to screen
 print("Yesterday's mean daily temperature was {0} degrees.".format(z))
